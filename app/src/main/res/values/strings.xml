@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tutorial03New</string>
+    <string name="edtName">Enter Name</string>
+    <string name="btnWelcome">Welcome</string>
+    <string name="btnGoodBye">Good Bye</string>
+</resources>
